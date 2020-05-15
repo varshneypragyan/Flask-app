@@ -1,1 +1,1 @@
-This is first python flask project
+First python flask project
